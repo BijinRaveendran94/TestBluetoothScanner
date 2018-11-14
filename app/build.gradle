@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.<bijin@vaspp.com>'
+group = 'com.github.BijinRaveendran94'
 
 android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.example.vi00064.testbluetoothscanner"
-        minSdkVersion 24
+        minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
